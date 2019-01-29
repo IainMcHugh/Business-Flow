@@ -1,0 +1,6 @@
+PO
+Supplier: John
+Item: FFF
+Quantity: 40
+Item: BBB
+Quantity: 10

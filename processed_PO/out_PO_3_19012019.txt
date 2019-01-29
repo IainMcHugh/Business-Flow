@@ -1,0 +1,4 @@
+PO
+Supplier: John
+Item: AAA
+Quantity: 6

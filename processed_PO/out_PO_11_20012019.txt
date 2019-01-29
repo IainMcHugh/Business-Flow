@@ -1,0 +1,6 @@
+PO
+Supplier: John
+Item: Yop
+Quantity: 2
+Item: Milk
+Quantity: 5

@@ -1,0 +1,4 @@
+PO
+Supplier: ppp
+Item: opoo
+Quantity: 90

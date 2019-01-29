@@ -1,0 +1,4 @@
+PO
+Supplier: John
+Item: R
+Quantity: 3

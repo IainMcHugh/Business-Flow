@@ -1,0 +1,4 @@
+PO
+Supplier: John
+Item: 30
+Quantity: 30

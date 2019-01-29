@@ -1,0 +1,6 @@
+PO
+Supplier: Mary
+Item: EEE
+Quantity: 5
+Item: FFF
+Quantity: 10

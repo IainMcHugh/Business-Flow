@@ -1,0 +1,6 @@
+PO
+Supplier: John
+Item: BBB
+Quantity: 5
+Item: DDD
+Quantity: 10

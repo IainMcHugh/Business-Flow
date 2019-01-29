@@ -1,0 +1,6 @@
+SO
+Customer: Bill
+Item: DDD
+Quantity: 1
+Item: AAA
+Quantity: 5

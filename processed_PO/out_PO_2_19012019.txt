@@ -1,0 +1,6 @@
+PO
+Supplier: Mary
+Item: CCC
+Quantity: 50
+Item: AAA
+Quantity: 10
