@@ -2,3 +2,5 @@ PO
 Supplier: ppp
 Item: opoo
 Quantity: 90
+Item:ooo
+Quantity: 8
