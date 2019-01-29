@@ -102,8 +102,6 @@ class Records:
             wb.save('Records.xlsx')
             print("Value updated!")
 
-
-
     def vendors(self):
         workbook = xlrd.open_workbook('Records.xlsx')
         vendors = workbook.sheet_by_name('Vendors')

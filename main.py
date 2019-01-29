@@ -176,5 +176,5 @@ class menu:
 
 
 setup = menu()
-
+print("This is a GitHub test")
 setup.mainmenu()
