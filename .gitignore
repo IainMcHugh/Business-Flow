@@ -1,4 +1,4 @@
 # Don't track contents of these folders
 venv/
 .idea/
-__pychache__
+__pychache__/
